@@ -10,6 +10,22 @@ A comprehensive carbon footprint tracking and management application. This full-
 -   **User Management**: Manage users, roles, and organizational data.
 -   **Comparison Tools**: Analyze trends year-over-year.
 
+## 📸 Screenshots
+
+### Landing Page
+![Landing Page](project/landing%20page%20b.jpg)
+
+### Dashboard Overview
+![Dashboard](project/dashboard%20b.jpg)
+
+### AI Recommendations
+![Recommendations](project/recomm%20b.jpg)
+
+### Mobile Responsive
+<div style="display: flex; gap: 10px;">
+  <img src="project/phone%20dashboard%20b.jpeg" alt="Mobile Dashboard" width="300" />
+</div>
+
 ## 🛠️ Tech Stack
 
 ### Frontend
