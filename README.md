@@ -23,6 +23,7 @@ A comprehensive carbon footprint tracking and management application. This full-
 
 ### Mobile Responsive
 <div style="display: flex; gap: 10px;">
+  <img src="project/phone%20landing%20page%20b.jpeg" alt="Mobile Landing" width="300" />
   <img src="project/phone%20dashboard%20b.jpeg" alt="Mobile Dashboard" width="300" />
 </div>
 
