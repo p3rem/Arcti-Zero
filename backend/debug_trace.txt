@@ -1,0 +1,1686 @@
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 3,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [],
+  "yearlyRaw": []
+}
+---
+{
+  "orgId": 3,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [],
+  "yearlyRaw": []
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 5,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "212.12"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2025",
+      "total": "212.12"
+    }
+  ]
+}
+---
+{
+  "orgId": 5,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "212.12"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2025",
+      "total": "212.12"
+    }
+  ]
+}
+---
+{
+  "orgId": 5,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "212.12"
+    },
+    {
+      "year": "2025",
+      "month": "12",
+      "total": "720.56"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2025",
+      "total": "932.68"
+    }
+  ]
+}
+---
+{
+  "orgId": 5,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "212.12"
+    },
+    {
+      "year": "2025",
+      "month": "12",
+      "total": "720.56"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2025",
+      "total": "932.68"
+    }
+  ]
+}
+---
+{
+  "orgId": 5,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "212.12"
+    },
+    {
+      "year": "2025",
+      "month": "12",
+      "total": "720.56"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2025",
+      "total": "932.68"
+    }
+  ]
+}
+---
+{
+  "orgId": 5,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "212.12"
+    },
+    {
+      "year": "2025",
+      "month": "12",
+      "total": "720.56"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2025",
+      "total": "932.68"
+    }
+  ]
+}
+---
+{
+  "orgId": 5,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "212.12"
+    },
+    {
+      "year": "2025",
+      "month": "12",
+      "total": "720.56"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2025",
+      "total": "932.68"
+    }
+  ]
+}
+---
+{
+  "orgId": 5,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "212.12"
+    },
+    {
+      "year": "2025",
+      "month": "12",
+      "total": "720.56"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2025",
+      "total": "932.68"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
+{
+  "orgId": 2,
+  "currentYear": 2025,
+  "previousYear": 2024,
+  "monthlyRaw": [
+    {
+      "year": "2024",
+      "month": "1",
+      "total": "252.40"
+    },
+    {
+      "year": "2024",
+      "month": "2",
+      "total": "252.40"
+    },
+    {
+      "year": "2025",
+      "month": "1",
+      "total": "248.40"
+    },
+    {
+      "year": "2025",
+      "month": "2",
+      "total": "442.08"
+    },
+    {
+      "year": "2025",
+      "month": "3",
+      "total": "439.77"
+    },
+    {
+      "year": "2025",
+      "month": "4",
+      "total": "360.82"
+    }
+  ],
+  "yearlyRaw": [
+    {
+      "year": "2024",
+      "total": "504.80"
+    },
+    {
+      "year": "2025",
+      "total": "1491.07"
+    }
+  ]
+}
+---
