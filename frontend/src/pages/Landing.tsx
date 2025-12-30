@@ -98,11 +98,11 @@ export default function Landing() {
             </span>
           </Link>
           <div className="flex items-center gap-4">
-            <Link to="/dashboard">
+            <Link to="/dashboard" className="hidden sm:inline-flex">
               <Button variant="ghost">Dashboard</Button>
             </Link>
             <Link to="/dashboard">
-              <Button>Get Started</Button>
+              <Button size="sm" className="sm:h-10 sm:px-4 sm:py-2">Get Started</Button>
             </Link>
           </div>
         </div>
