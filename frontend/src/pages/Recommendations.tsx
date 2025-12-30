@@ -35,7 +35,7 @@ export default function Recommendations() {
     const fetchInsights = async () => {
       try {
         const token = localStorage.getItem('token');
-        const res = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000/api'}/recommendations`, {
+        const res = await fetch(`${import.meta.env.VITE_API_URL || 'http://localhost:5000'}/api/recommendations`, {
           headers: {
             'Authorization': `Bearer ${token}`
           }
