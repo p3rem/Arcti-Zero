@@ -1,7 +1,11 @@
 # ArcticZero - Carbon Footprint Tracking and Management Application
 A comprehensive carbon footprint tracking and management application. This full-stack solution provides real-time analytics, emission tracking, smart recommendations, and reporting features for organizations.
 
-## 🚀 Features
+## � Live Demo
+- **Main URL:** [https://teamarcticzero.xyz](https://teamarcticzero.xyz)
+- **Fallback URL:** [https://arctic-zero-web.onrender.com](https://arctic-zero-web.onrender.com)
+
+## �🚀 Features
 
 -   **Real-time Analytics**: Track carbon footprint with live data visualization.
 -   **Emission Tracking**: Monitor electricity, transport, and waste emissions.
