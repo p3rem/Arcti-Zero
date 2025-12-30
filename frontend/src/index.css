@@ -1,0 +1,245 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Arctic Zero Design System */
+    --background: 160 20% 98%;
+    --foreground: 160 30% 10%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 160 30% 10%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 160 30% 10%;
+
+    /* Forest Green Primary */
+    --primary: 158 64% 32%;
+    --primary-foreground: 0 0% 100%;
+
+    /* Ocean Blue Secondary */
+    --secondary: 200 60% 94%;
+    --secondary-foreground: 200 70% 25%;
+
+    /* Muted Sage */
+    --muted: 160 20% 94%;
+    --muted-foreground: 160 10% 45%;
+
+    /* Teal Accent */
+    --accent: 174 60% 45%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 72% 51%;
+    --destructive-foreground: 0 0% 100%;
+
+    /* Warm Warning */
+    --warning: 38 92% 50%;
+    --warning-foreground: 0 0% 100%;
+
+    /* Success Green */
+    --success: 142 70% 45%;
+    --success-foreground: 0 0% 100%;
+
+    --border: 160 20% 88%;
+    --input: 160 20% 88%;
+    --ring: 158 64% 32%;
+
+    --radius: 0.75rem;
+
+    /* Custom Arctic Theme Colors */
+    --arctic-50: 160 30% 97%;
+    --arctic-100: 160 25% 94%;
+    --arctic-200: 160 20% 88%;
+    --arctic-300: 160 18% 75%;
+    --arctic-400: 158 25% 55%;
+    --arctic-500: 158 40% 42%;
+    --arctic-600: 158 50% 32%;
+    --arctic-700: 158 55% 25%;
+    --arctic-800: 160 50% 18%;
+    --arctic-900: 160 45% 12%;
+
+    --ocean-50: 200 70% 97%;
+    --ocean-100: 200 65% 92%;
+    --ocean-200: 200 60% 85%;
+    --ocean-300: 200 55% 70%;
+    --ocean-400: 200 60% 55%;
+    --ocean-500: 200 65% 45%;
+    --ocean-600: 200 70% 38%;
+
+    /* Gradients */
+    --gradient-hero: linear-gradient(135deg, hsl(158 64% 32%) 0%, hsl(174 60% 45%) 50%, hsl(200 65% 45%) 100%);
+    --gradient-card: linear-gradient(180deg, hsl(0 0% 100%) 0%, hsl(160 20% 98%) 100%);
+    --gradient-glass: linear-gradient(135deg, hsla(0, 0%, 100%, 0.9) 0%, hsla(0, 0%, 100%, 0.7) 100%);
+    --gradient-success: linear-gradient(135deg, hsl(142 70% 45%) 0%, hsl(158 64% 32%) 100%);
+
+    /* Shadows */
+    --shadow-sm: 0 1px 2px 0 hsla(160, 30%, 10%, 0.05);
+    --shadow-md: 0 4px 6px -1px hsla(160, 30%, 10%, 0.07), 0 2px 4px -1px hsla(160, 30%, 10%, 0.04);
+    --shadow-lg: 0 10px 15px -3px hsla(160, 30%, 10%, 0.08), 0 4px 6px -2px hsla(160, 30%, 10%, 0.04);
+    --shadow-xl: 0 20px 25px -5px hsla(160, 30%, 10%, 0.1), 0 10px 10px -5px hsla(160, 30%, 10%, 0.04);
+    --shadow-glow: 0 0 40px hsla(158, 64%, 32%, 0.15);
+
+    /* Sidebar */
+    --sidebar-background: 160 30% 10%;
+    --sidebar-foreground: 160 10% 90%;
+    --sidebar-primary: 158 64% 50%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 160 20% 18%;
+    --sidebar-accent-foreground: 160 10% 90%;
+    --sidebar-border: 160 20% 18%;
+    --sidebar-ring: 158 64% 50%;
+  }
+
+  .dark {
+    --background: 160 30% 6%;
+    --foreground: 160 10% 95%;
+
+    --card: 160 25% 10%;
+    --card-foreground: 160 10% 95%;
+
+    --popover: 160 25% 10%;
+    --popover-foreground: 160 10% 95%;
+
+    --primary: 158 55% 50%;
+    --primary-foreground: 160 30% 6%;
+
+    --secondary: 200 40% 15%;
+    --secondary-foreground: 200 60% 85%;
+
+    --muted: 160 20% 15%;
+    --muted-foreground: 160 10% 60%;
+
+    --accent: 174 50% 50%;
+    --accent-foreground: 160 30% 6%;
+
+    --destructive: 0 62% 45%;
+    --destructive-foreground: 0 0% 100%;
+
+    --border: 160 20% 18%;
+    --input: 160 20% 18%;
+    --ring: 158 55% 50%;
+
+    --sidebar-background: 160 30% 4%;
+    --sidebar-foreground: 160 10% 90%;
+    --sidebar-primary: 158 55% 50%;
+    --sidebar-primary-foreground: 160 30% 6%;
+    --sidebar-accent: 160 20% 12%;
+    --sidebar-accent-foreground: 160 10% 90%;
+    --sidebar-border: 160 20% 12%;
+    --sidebar-ring: 158 55% 50%;
+
+    /* Dark Mode Gradients */
+    --gradient-card: linear-gradient(180deg, hsl(160 25% 10%) 0%, hsl(160 30% 6%) 100%);
+    --gradient-glass: linear-gradient(135deg, hsla(160, 25%, 10%, 0.9) 0%, hsla(160, 25%, 10%, 0.7) 100%);
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground antialiased;
+    font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-semibold tracking-tight;
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-card/80 backdrop-blur-xl border border-border/50;
+    box-shadow: var(--shadow-lg);
+  }
+
+  .glass-panel {
+    background: var(--gradient-glass);
+    @apply backdrop-blur-xl border border-border/30;
+  }
+
+  .gradient-text {
+    background: var(--gradient-hero);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .hover-lift {
+    @apply transition-all duration-300 ease-out;
+  }
+
+  .hover-lift:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-xl);
+  }
+
+  .stat-card {
+    @apply relative overflow-hidden rounded-xl p-6 transition-all duration-300;
+    background: var(--gradient-card);
+    box-shadow: var(--shadow-md);
+  }
+
+  .stat-card::before {
+    content: '';
+    @apply absolute inset-0 opacity-0 transition-opacity duration-300;
+    background: var(--gradient-hero);
+  }
+
+  .stat-card:hover::before {
+    @apply opacity-5;
+  }
+
+  .sidebar-glow {
+    box-shadow: inset -1px 0 0 hsla(158, 64%, 50%, 0.1);
+  }
+}
+
+@layer utilities {
+  .animate-float {
+    animation: float 6s ease-in-out infinite;
+  }
+
+  .animate-pulse-slow {
+    animation: pulse 4s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+  }
+
+  .animate-gradient {
+    background-size: 200% 200%;
+    animation: gradient 8s ease infinite;
+  }
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-10px); }
+  }
+
+  @keyframes gradient {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+  }
+
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--muted)) transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background: hsl(var(--muted));
+    border-radius: 3px;
+  }
+}
